@@ -1,4 +1,4 @@
-# Operating-System-OS-161
+# Operating System OS-161
 A simplified operating system developed for instructional purposes
 http://os161.eecs.harvard.edu/
 
