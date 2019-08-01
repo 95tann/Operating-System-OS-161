@@ -1,5 +1,5 @@
 # Operating System OS-161
-A simplified operating system developed for instructional purposes
+A simplified operating system developed for educational purposes
 
 ### Reference Guides
 - About OS-161: http://os161.eecs.harvard.edu/
